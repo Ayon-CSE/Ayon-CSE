@@ -1,9 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MishkatIT&label=Profile%20views&color=0e75b6&style=flat" alt="MishkatIT" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MishkatIT&label=Profile%20views&color=0e75b6&style=flat" alt="Ayon" /> </p>
 <h2 align="center">
-  <font color="#007BFF"><b>Hi 👋, I'm Mishkat</b></font>
+  <font color="#007BFF"><b>Hi 👋, I'm Ayon</b></font>
 </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Freelancer+at+Fiverr;Good+Listener;Self+Learner"><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=Competitive+Programmer;Problem+Solver;Good+Listener;Self+Learner"><br>
 </p>
 
 
@@ -15,9 +15,7 @@
 
 🧠 I explore **algorithms and data structures** regularly.
 
-🖥️ I use **C++, Java, Python, C, PHP** and manage **MySQL** databases.
-
-🎨 I'm also a **Fiverr Level-2 graphic designer**, focused on minimal & creative designs.
+🖥️ I use **C++, Java, Python, C, Javascript** and manage **MySQL** databases.
 
 🌿 Hobbies include **hiking, cycling, and reading**.
 
