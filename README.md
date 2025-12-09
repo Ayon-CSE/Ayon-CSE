@@ -21,7 +21,7 @@
 
 🔁 I enjoy blending **logic + creativity** to grow as a Programmer & Designer.
 
-📄 [View My Resume](https://drive.google.com/file/d/1klsrCBKxdh0aQC_5qoYpizRK96n9nqjX/view?usp=drive_link)
+📄 [View My Resume](file:///E:/Ayon%20Das%20Gupta%20(Resume)%20(3)%20(1).pdf)
 
 
 
