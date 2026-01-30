@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a CSE undergraduate passionate about solving problems with C++.
+🎓 I'm a CSE undergraduate passionate about solving problems with C++. 
 🧠 I explore algorithms and data structures regularly.
 🖥️ I use C++, Java, Python, C, Javascript and manage MySQL databases.
 ⚙️ I Focused on **Competitive Programming, Backend & Interview Preparation**  
