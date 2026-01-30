@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-🎓 Studying **Computer Science and Engineering (CSE)**  
-🧠 Strong in **Algorithms, Data Structures & Problem Solving**  
-🖥️ Programming Languages: **C, C++, Java, Python**  
-⚙️ Focused on **Competitive Programming, Backend & Interview Preparation**  
-📚 Hobby: **Reading**
+🎓 I'm a CSE undergraduate passionate about solving problems with C++.
+🧠 I explore algorithms and data structures regularly.
+🖥️ I use C++, Java, Python, C, Javascript and manage MySQL databases.
+⚙️ I Focused on **Competitive Programming, Backend & Interview Preparation**  
+📚 Hobbies include hiking, cycling, and reading.
 
 📄 **Resume:**  
 👉 <a href="https://media.licdn.com/dms/document/media/v2/D562DAQEDN-8O8MSFUA/profile-treasury-document-pdf-analyzed/B56ZiAClKHHUAk-/0/1754494818902?e=1770854400&v=beta&t=jUSAwXnSCL5_gk-b-uKjvs2ggODL7vBxFqZkiYphN4s">View Resume</a>
